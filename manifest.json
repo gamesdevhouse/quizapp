@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "QuizApp - The Ultimate Trivia Quiz",
+  "description": "QuizApp:The Ultimate Trivia Quiz",
   "dir": "ltr",
   "display": "standalone",
-  "name": "QuizApp - The Ultimate Trivia Quiz",
+  "name": "QuizApp:The Ultimate Trivia Quiz",
   "orientation": "any",
   "scope": "/",
-  "short_name": "QuizApp - The Ultimate Trivia Quiz",
+  "short_name": "QuizApp:The Ultimate Trivia Quiz",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "QuizApp - The Ultimate Trivia Quiz",
+      "name": "QuizApp:The Ultimate Trivia Quiz",
       "url": "",
       "description": ""
     }
